@@ -48,7 +48,8 @@ CSS3: Styling and layout.
 
 JavaScript (ES6): Game logic and interactivity.
 
-![Screenshot 2024-12-28 150338](https://github.com/user-attachments/assets/2fb865be-e899-45a4-be57-0f63d424e5ea)
+
 ![Screenshot 2024-12-28 150322](https://github.com/user-attachments/assets/d1d74e37-dce8-4fcd-b0d9-cf883ba067d3)
 ![Screenshot 2024-12-28 150250](https://github.com/user-attachments/assets/7f7744e1-1aa8-4e53-b41a-4efebdd8d635)
 ![Screenshot 2024-12-28 150219](https://github.com/user-attachments/assets/c01ee287-f382-4066-9ea9-434f8dc88b68)
+![Screenshot 2024-12-28 150338](https://github.com/user-attachments/assets/2fb865be-e899-45a4-be57-0f63d424e5ea)
